@@ -18,7 +18,7 @@ function App() {
         answers[counter] = "Cevaplanmadı";
         setShowAnswers(true);
       }
-    }, 7000);
+    }, 30000);
 
     const timerBtn = setTimeout(() => {
       setShowAnswers(false);

@@ -45,6 +45,13 @@ This project is a simple, interactive Quiz Application built with React, using T
 - React Context API for global state management.
 
 
+---
+
+## Live Demo  
+You can view the project live [here](https://questionappzzz.netlify.app/).
+
+
+
 
 ---
 
@@ -125,8 +132,8 @@ quiz-app/
 ## Author
 
 - **Your Name**
-- GitHub: [your-username](https://github.com/ZeynelBasaran)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/zeynelbasaran/)
+- GitHub: [Zeynel Başaran](https://github.com/ZeynelBasaran)
+- LinkedIn: [Zeynel Başaran](https://www.linkedin.com/in/zeynelbasaran/)
 
 ---
 
