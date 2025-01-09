@@ -11,7 +11,6 @@ export const ThemeProvider = ({ children }) => {
   const [score, setScore] = useState(0);
   const [showAnswers, setShowAnswers] = useState(true)
 
-  console.log(answers, counter)
 
 
   return (
